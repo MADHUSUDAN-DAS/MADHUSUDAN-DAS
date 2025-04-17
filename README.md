@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Web and App development, Artificial Intelligence and Machine Learning, Cloud Computing and Cyber Security
 - 🌱 I’m currently learning DSA in Java and Web development
 - 💞️I am seeking collaboration opportunities for a Software Development Engineer (SDE) role and web development.
-- 📫 Anyone can reach me through my email id---madhu.emailme24hr@gmail.com
+- 📫 Anyone can reach me through my email             - madhu.emailme24hr@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm not a programmer, I'm a 'problem solver' with a 'keyboard' and a 'deadline'.
 
